@@ -35,9 +35,9 @@ Usage
 
     Run the application:
     
-    ```bash
-    python pomodoro_timer.py
-    ```
+```bash
+ python pomodoro_timer.py
+```
 
     Control the Timer:
         Click Start to begin the timer.
