@@ -25,6 +25,7 @@ PomoTime is a simple Pomodoro timer application built using Python's Tkinter lib
    cd pomotime
    ```
 2. Install the required Python module:
+
 ```bash
 pip install playsound
 ```
@@ -33,6 +34,7 @@ pip install playsound
 Usage
 
     Run the application:
+    
     ```bash
     python pomodoro_timer.py
     ```
