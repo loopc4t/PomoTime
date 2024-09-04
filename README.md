@@ -40,17 +40,17 @@ Run the application:
  python pomodoro_timer.py
 ```
 
-    Control the Timer:
+Control the Timer:
         Click Start to begin the timer.
         Click Pause to stop the timer.
         Use Add 5 min and Reduce 5 min buttons to adjust the work duration.
 
 Code Overview
 
-    PomodoroTimer class: Manages the timer's logic, GUI, and phase switching.
-    start_timer method: Starts the timer and updates the display.
-    stop_timer method: Pauses the timer.
-    run_timer method: Updates the remaining time every second.
-    switch_phase method: Switches between work and break phases.
-    format_time method: Formats the remaining time for display.
-    **add_time and reduce_time methods
+ PomodoroTimer class: Manages the timer's logic, GUI, and phase switching.
+ start_timer method: Starts the timer and updates the display.
+ stop_timer method: Pauses the timer.
+ run_timer method: Updates the remaining time every second.
+ switch_phase method: Switches between work and break phases.
+ format_time method: Formats the remaining time for display.
+ **add_time and reduce_time methods
