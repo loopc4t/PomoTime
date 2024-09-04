@@ -31,7 +31,7 @@ pip install playsound
 
 Add the beep sound file: Make sure you have a beep.mp3 file in the same directory as the script for the sound notification.
 
-Usage
+### Usage
 
 Run the application:
     
