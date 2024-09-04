@@ -22,7 +22,6 @@ PomoTime is a simple Pomodoro timer application built using Python's Tkinter lib
 1. **Clone the repository** (or download the script directly):
    ```bash
    git clone https://github.com/yourusername/pomotime.git
-   cd pomotime
    ```
 2. Install the required Python module:
 
