@@ -29,11 +29,12 @@ PomoTime is a simple Pomodoro timer application built using Python's Tkinter lib
 ```bash
 pip install playsound
 ```
-    Add the beep sound file: Make sure you have a beep.mp3 file in the same directory as the script for the sound notification.
+
+Add the beep sound file: Make sure you have a beep.mp3 file in the same directory as the script for the sound notification.
 
 Usage
 
-    Run the application:
+Run the application:
     
 ```bash
  python pomodoro_timer.py
